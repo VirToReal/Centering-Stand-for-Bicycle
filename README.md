@@ -45,7 +45,7 @@ on the "baseplate" with the Gears between them.
 them. They should look out the structure the same distance. If you failed
 with assembling the Grabber-Arms correctly, you can adjust here.
 
-- ALL OTHER PARTS:
+ALL OTHER PARTS:
 - Not much to consider, just use Nut-Traps if there are one. Washers may prevent
 the plastic from damage. Locknuts on some points may help against self adjusting.
 The OpenSCAD Preview with "printmode = false" may explain everything to you.
