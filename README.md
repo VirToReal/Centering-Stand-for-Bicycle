@@ -1,8 +1,9 @@
 # Centering-Stand-for-Bicycle
 Zentrierständer für Fahrrad-Laufräder / Centering-Stand for Bicycle-Impeller
 
-Fully parametric with OpenSCAD
-Thingiverse-Link (https://www.thingiverse.com/thing:2385150)
+Fully parametric with OpenSCAD ("Zentrierstaender.scad" + "gears-helical.scad")
+
+Thingiverse-Link with same Files (https://www.thingiverse.com/thing:2385150)
 Helical Gear by Catarina Mota (https://www.thingiverse.com/thing:1339)
 
 # INFORMATION - CONSTRUCTING 
